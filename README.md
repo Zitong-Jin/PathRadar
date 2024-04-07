@@ -1,4 +1,4 @@
-# OathRadar
+# PathRadar
 
 ## What is PathRadar?
 
