@@ -123,4 +123,4 @@ __Output data format__
 
 ## Contact 
 
-You can contact us at <jinzt19@mails.tsinghua.edu.cn>.
+You can contact us at <jinzt@mail.zgclab.edu.cn>.
