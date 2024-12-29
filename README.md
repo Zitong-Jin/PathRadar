@@ -2,7 +2,7 @@
 
 ## What is PathRadar?
 
-PathRadar is an algorithm that classifies ASes into core and shell categories and uses the progressive learning process (PLP) for AS path inference, which enables the inference of AS-level paths, prefix-level paths, as well as non-valley-free paths. You can learn more about PathRadar in IMC 2024.
+PathRadar is an algorithm that classifies ASes into core and shell categories and uses the progressive learning process (PLP) for AS path inference, which enables the inference of AS-level paths, prefix-level paths, as well as non-valley-free paths. You can learn more about PathRadar in INFOCOM 2025.
 
 ## Quickstart
 
